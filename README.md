@@ -1,7 +1,7 @@
 # Data source:
 https://grouplens.org/datasets/movielens/100k/
 
-# Project Overview
+# Projects Overview
 This repository contains two PySpark-based solutions for movie data analysis and recommendation:
 
 ### 1. Top 10 Popular Movies
